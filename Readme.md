@@ -4,7 +4,7 @@ A simple hello world program
 
 This program is a simple demonstration of publishing files to repository
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/UjhIKEnh1Ng)
 
 # Development Environment
 
